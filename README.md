@@ -26,7 +26,7 @@
 > - старое приложение на Java и Lua: [Kitsune](https://github.com/alex-bayir/Kitsune)
 Сейчас переписываю его на фреймворк [Flutter](https://flutter.dev) (Dart) (закрытый репозиторий) и на модифицированный мной скриптовый язык [Hetu](https://github.com/alex-bayir/hetu-script) ([скрипты источников](https://github.com/alex-bayir/sources))
 > - Имеется небольшой опыт в реверс инжиниринге: была пара мини проектов написанных на Asembler x86, Assemler arm, smali
-> 
+> - немного наработок по автоматизации: [alex-bayir/different](https://github.com/alex-bayir/different)
 
 > [!TIP]
 > ![shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
